@@ -1,0 +1,42 @@
+[
+    {
+        "epoch": 1,
+        "total_reward": -1173.6344301849604
+    },
+    {
+        "epoch": 2,
+        "total_reward": -674.9082871377468
+    },
+    {
+        "epoch": 3,
+        "total_reward": -567.975498713553
+    },
+    {
+        "epoch": 4,
+        "total_reward": -512.5177869684994
+    },
+    {
+        "epoch": 5,
+        "total_reward": -478.1011163610965
+    },
+    {
+        "epoch": 6,
+        "total_reward": -454.679221495986
+    },
+    {
+        "epoch": 7,
+        "total_reward": -436.98170733079314
+    },
+    {
+        "epoch": 8,
+        "total_reward": -424.0236713644117
+    },
+    {
+        "epoch": 9,
+        "total_reward": -413.5841928720474
+    },
+    {
+        "epoch": 10,
+        "total_reward": -404.0431633666158
+    }
+]
