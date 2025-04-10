@@ -90,15 +90,12 @@ We train four types of policies:
 
 ---
 
-## 📈 Results *(Coming Soon)*
+## 📈 Results 
 
-### 🔹 BC Policy vs Expert Scheduler
+### 🔹 Ours(PPO+IL) vs Baseline(Expert Scheduler)
 
-![BC Policy Result](./results/bc_policy_vs_scheduler.png)
+![BC Policy Result](./results/ours_vs_baseline.png)
 
-### 🔹 IL + PPO Fine-Tuning Results
-
-![IL + PPO Result](./results/il_ppo_result.png)
 
 ---
 
